@@ -1,0 +1,10 @@
+
+{
+  "switched_on_equipments": [],
+  "reply_I_have_swithced_on_this_this_and_this": null,
+  "switched_off_equipments": [
+    "Kitchen bulb"
+  ],
+  "reply_I_have_swithced_off_this_this_and_this": "I have switched off Kitchen bulb",
+  "if_the_query_doesnt_seem_to_be_switching_on_or_off_then_turn_on_AI_mode": false
+}
