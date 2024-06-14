@@ -1,6 +1,6 @@
 # Home Automation Telegram AI Bot
 
-This project is a home automation bot that integrates with Telegram. It uses a language model to interpret user commands and control smart home devices. The bot can respond to various commands and control devices based on predefined user preferences.
+This project is a home automation bot that integrates with Telegram. It uses a language model to interpret user commands and control smart home devices. The bot can respond to various commands and control devices based on predefined user preferences. You can run this project on Raspberry Pi.
 
 ## Features
 
